@@ -1,0 +1,11 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: discoveryserver
+eureka:
+  client:
+    register-with-eureka: false #Spring Boot 실행시  Eureka에 자동으로 등록 -> Eureka 자기 자신이기 떄문에 등록할 필요없음 false
+    fetch-registry: false
+
