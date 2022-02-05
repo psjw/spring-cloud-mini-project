@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="dfbaQ7DlHn4PU6Cf_Nkj" name="페이지-1">
+        <mxGraphModel dx="1625" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="200" width="440" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="인프라 팀, 배포팀" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=40;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="260" width="390" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="모놀리틱 Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=40;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="210" width="300" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="주문팀" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=40;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="320" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="상품팀" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=40;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="320" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="정산팀" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=40;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="320" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="UI팀" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=40;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="320" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="DB팀" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=40;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="380" width="390" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=40;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="77.5" y="70" width="425" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=40;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="-50" y="180" width="60" height="270" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

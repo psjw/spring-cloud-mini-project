@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="ebu0yD5T-y7D76ZlQ7Ex" name="페이지-1">
+        <mxGraphModel dx="798" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="User Interface" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#FF33FF;strokeColor=#990099;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="230" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Business Logic" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="320" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Data Acess Layer" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="420" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fontSize=15;shadow=1;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="560" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="endArrow=block;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=1;strokeWidth=2;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="150" y="543" as="sourcePoint"/>
+                        <mxPoint x="150" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=0;startArrow=block;startFill=1;strokeWidth=2;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="166.5" y="543" as="sourcePoint"/>
+                        <mxPoint x="166.5" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="MONOLITHIC ARCHITECTURE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=20;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="80" y="150" width="160" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

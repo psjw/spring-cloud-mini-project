@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram id="h0rdwPa9FOWD7rnP-Hwl" name="페이지-1">
+        <mxGraphModel dx="1521" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 40px&quot;&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;간단한&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;개발&lt;br&gt;테스트&lt;br&gt;배포&lt;br&gt;확장&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="220" width="100" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;startArrow=classic;startFill=1;strokeWidth=3;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="웹 브라우저" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="450" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=30;startArrow=classic;startFill=1;strokeWidth=3;" edge="1" parent="1" source="4" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="아파치&lt;br&gt;(웹서버)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="450" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                    <mxGeometry x="733" y="360" width="250" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp;Tomcat&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;verticalAlign=bottom;align=left;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                    <mxGeometry x="710" y="340" width="243" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="group;fillColor=#FF0080;fontColor=#ffffff;strokeColor=#2D7600;container=0;" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="741.5" y="370" width="180" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="SQL&lt;br&gt;Database" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+                    <mxGeometry x="1090" y="450" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=30;startArrow=classic;startFill=1;strokeWidth=3;" edge="1" parent="1" source="6" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Monolith 앱의 개발 배포 및 아키텍처" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=45;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="130" width="580" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=45;strokeWidth=3;" vertex="1" parent="1">
+                    <mxGeometry x="-40" y="400" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+                    <mxGeometry x="741.5" y="370" width="180" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font style=&quot;font-size: 25px&quot;&gt;StoreFront UI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#d0cee2;strokeColor=#56517e;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="756.5" y="390" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 25px&quot;&gt;회계서비스&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#d0cee2;strokeColor=#56517e;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="756.5" y="447" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;font style=&quot;font-size: 25px&quot;&gt;재고파악 서비스&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="756.5" y="504" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font style=&quot;font-size: 25px&quot;&gt;선적 서비스&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="756.5" y="560" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font style=&quot;font-size: 25px&quot;&gt;선적 서비스&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#d0cee2;strokeColor=#56517e;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="756.5" y="560" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;font style=&quot;font-size: 25px&quot;&gt;재고파악 서비스&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체 Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;strokeWidth=3;fillColor=#d0cee2;strokeColor=#56517e;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="756.5" y="504" width="150" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

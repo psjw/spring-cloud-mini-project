@@ -1,0 +1,154 @@
+<mxfile host="65bd71144e">
+    <diagram id="ebu0yD5T-y7D76ZlQ7Ex" name="페이지-1">
+        <mxGraphModel dx="1451" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="User Interface" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#FF33FF;strokeColor=#990099;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="230" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Business Logic" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="320" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Data Acess Layer" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="420" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fontSize=15;shadow=1;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="560" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="endArrow=block;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=1;strokeWidth=2;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="150" y="543" as="sourcePoint"/>
+                        <mxPoint x="150" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=0;startArrow=block;startFill=1;strokeWidth=2;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="166.5" y="543" as="sourcePoint"/>
+                        <mxPoint x="166.5" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="MONOLITHIC ARCHITECTURE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=20;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="80" y="150" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Microservice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
+                    <mxGeometry x="334" y="420" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fontSize=15;shadow=1;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="560" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="endArrow=block;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=1;strokeWidth=2;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="404" y="543" as="sourcePoint"/>
+                        <mxPoint x="404" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=0;startArrow=block;startFill=1;strokeWidth=2;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420.5" y="543" as="sourcePoint"/>
+                        <mxPoint x="420.5" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="Microservice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="420" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fontSize=15;shadow=1;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="560" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="endArrow=block;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=1;strokeWidth=2;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="600" y="543" as="sourcePoint"/>
+                        <mxPoint x="600" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=0;startArrow=block;startFill=1;strokeWidth=2;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="616.5" y="543" as="sourcePoint"/>
+                        <mxPoint x="616.5" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="Microservice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+                    <mxGeometry x="730" y="420" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fontSize=15;shadow=1;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="560" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="endArrow=block;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=1;strokeWidth=2;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="800" y="543" as="sourcePoint"/>
+                        <mxPoint x="800" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=0;startArrow=block;startFill=1;strokeWidth=2;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="816.5" y="543" as="sourcePoint"/>
+                        <mxPoint x="816.5" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="Microservice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+                    <mxGeometry x="930" y="420" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fontSize=15;shadow=1;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+                    <mxGeometry x="950" y="560" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="endArrow=block;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=1;strokeWidth=2;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1000" y="543" as="sourcePoint"/>
+                        <mxPoint x="1000" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=15;endFill=0;startArrow=block;startFill=1;strokeWidth=2;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1016.5" y="543" as="sourcePoint"/>
+                        <mxPoint x="1016.5" y="493" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="641.6666259765625" as="sourcePoint"/>
+                        <mxPoint x="300" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="MICROSERVICES ARCHITECTURE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=20;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="560" y="140" width="370" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Microservice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
+                    <mxGeometry x="930" y="420" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Microservice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
+                    <mxGeometry x="730" y="420" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Microservice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="420" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="30" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="30" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Microservice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
+                    <mxGeometry x="414" y="280" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="31" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="31" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="31" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="31" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="31" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Microservice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=15;glass=0;shadow=1;strokeWidth=2;fillColor=#d0cee2;strokeColor=#56517e;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="665" y="200" width="160" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

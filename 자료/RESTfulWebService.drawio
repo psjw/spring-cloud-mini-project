@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="BkDp7rQmso0WY-TMDVCp" name="페이지-1">
+        <mxGraphModel dx="798" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;ul style=&quot;font-size: 35px;&quot;&gt;&lt;li style=&quot;font-size: 35px;&quot;&gt;LEVEL3 : Hyper Media Controls&lt;/li&gt;&lt;li style=&quot;font-size: 35px;&quot;&gt;LEVEL2 : Http Verb&lt;/li&gt;&lt;li style=&quot;font-size: 35px;&quot;&gt;LEVEL1 : Resources&lt;/li&gt;&lt;li style=&quot;font-size: 35px;&quot;&gt;LEVEL0 : The Swamp of POX&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=35;fontFamily=빙그레 싸만코체;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="220" width="490" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Glory of REST" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=빙그레 싸만코체;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;" vertex="1" parent="1">
+                    <mxGeometry x="620" y="190" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="endArrow=open;html=1;fontFamily=빙그레 싸만코체;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;endFill=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="710" y="450" as="sourcePoint"/>
+                        <mxPoint x="760" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=빙그레 싸만코체;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_20-10%401.0%2FBinggraeSamanco-Bold.woff;fontSize=35;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
