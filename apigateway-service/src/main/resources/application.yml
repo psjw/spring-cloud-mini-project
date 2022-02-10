@@ -2,8 +2,8 @@ server:
   port: 8000
 eureka:
   client:
-    fetch-registry: false
-    register-with-eureka: false
+    fetch-registry: true
+    register-with-eureka: true
     service-url:
       defaultZone: http://localhost:8761/eureka
 
@@ -14,17 +14,19 @@ spring:
     gateway:
       routes:
         - id: first-service
-          uri: http://localhost:8081/
-          predicates: #???
+#          uri: http://localhost:8081/
+          uri: lb://MY-FIRST-SERVICE
+          predicates:
             - Path=/first-service/**
           filters:
 #            - AddRequestHeader=first-request, first-request-header2
 #            - AddResponseHeader=first-response, first-response-header2
             - CustomFilter
         - id: second-service
-          uri: http://localhost:8082/
+#          uri: http://localhost:8082/
+          uri: lb://MY-SECOND-SERVICE
           predicates: #???
-            - Path=/second-service/** #http://localhost:8082/second-service/** ????? ???? 404
+            - Path=/second-service/** #http://localhost:8082/second-service/** 404
           filters:
 #            - AddRequestHeader=second-request, second-request-header2
 #            - AddResponseHeader=second-response, second-response-header2
@@ -41,4 +43,4 @@ spring:
             preLogger: true
             postLogger: true
 
-#Netty started on port 8000 -> ??? ??
+#Netty started on port 8000 -> 비동기식
